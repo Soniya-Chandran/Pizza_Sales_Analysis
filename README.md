@@ -1,6 +1,6 @@
 # Pizza_Sales_Analysis
 
-**Objective:** Analyse the pizza sales data for the year 2015 and identify the trends and patterns of the sales. The analysise is conducted with an aim to evaluate the performance based on KPIs with the help of visualisation for the better understanding.
+**Objective:** Analyse the pizza sales data for the year 2015 and identify the trends and patterns of the sales. The analysis is conducted with an aim to evaluate the performance based on KPIs with the help of visualisation for the better understanding.
 
 **Steps Followed:**
 
